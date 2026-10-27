@@ -12,7 +12,7 @@ Malaysian funding programmes are spread across agency websites, PDFs, and news r
 
 ## Evidence of the Problem
 
-1. An ACCCIM survey of 682 SMEs found that 67% did not understand how to tap into government soft loans, grants, and tax incentives. ([Malaysiakini](https://www.malaysiakini.com/news/66006)) *Note: undated and likely old, so a recent source will be added.*
+1. An ACCCIM survey of 682 SMEs found that 67% did not understand how to tap into government soft loans, grants, and tax incentives. ([Malaysiakini](https://www.malaysiakini.com/news/66006)) 
 2. A 2026 analysis found that SME Corp's RMK-13 funding is financing, not grants, and that a rebate of up to 30% must be applied for separately through MyBPI. ([Newswav](https://newswav.com/article/sme-corp-rmk-13-funding-2026-rm117m-is-a-loan-not-a-grant-A2608_7glkUm))
 
 ## Initial Related Work
