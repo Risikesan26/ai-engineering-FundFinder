@@ -48,7 +48,8 @@
 | FR-6 | The system shall display the retrieval date of each cited source. | Must |
 | FR-7 | The system shall abstain and state uncertainty when retrieved evidence is insufficient or the question is out of scope. | Must |
 | FR-8 | The system shall show a disclaimer on every response and use "may be eligible" wording instead of guarantees. | Must |
-| FR-9 | The system shall log queries and outputs without personal data for evaluation. | Should |
+| FR-9 | The system shall provide a re-runnable ingestion pipeline (collect, parse, chunk, embed, index) that records source URL and retrieval date. | Must |
+| FR-10 | The system shall log queries and outputs without personal data for evaluation. | Should |
 
 ## Section 3. Non-Functional and Responsible AI Requirements
 
