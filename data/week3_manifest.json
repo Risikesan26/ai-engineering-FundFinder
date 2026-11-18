@@ -1,0 +1,17 @@
+{
+  "pipeline_version": "week3-v1",
+  "generated_at_utc": "2026-11-18T08:38:32.298238+00:00",
+  "records": [
+    {
+      "source_id": "S01",
+      "source_filename": "msme_tnc (1).pdf",
+      "source_sha256": "b9554e8195d9c7a2db019a23c4edb748377ece4b428a46bf63a1e4eb76dffb97",
+      "prepared_output": "data/processed/prepared_text.jsonl",
+      "prepared_sha256": "1a61568cae0e8ba33f13970bb7a13188602983d75ff72ab66a9049f7e7ed0113",
+      "processing_note": "paragraph-aware-char-500",
+      "source_version": "Not verified",
+      "access_rights": "Not verified",
+      "status": "Prepared; quality review pending"
+    }
+  ]
+}
